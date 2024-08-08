@@ -19,10 +19,6 @@ Na Synapse Tech Solutions, acreditamos que a tecnologia pode transformar negóci
 - **Transparência**: Mantemos uma comunicação clara e aberta com nossos clientes.
 - **Colaboração**: Trabalhamos em estreita colaboração com nossos clientes e parceiros para alcançar os melhores resultados.
 
-## Contribua Conosco 🤝
-
-Estamos sempre abertos a novas ideias e contribuições. Se você é um desenvolvedor apaixonado por tecnologia e deseja fazer parte da nossa missão, confira nossos projetos e veja como você pode contribuir.
-
 ## Contato 📬
 
 Para mais informações, entre em contato conosco pelo e-mail [contato@synapsetechsolutions.com](mailto:contato@synapsetechsolutions.com).
